@@ -42,7 +42,7 @@ Let's first clarify the terms GCDS, GCBF and BF-ship.
 Decide before gamestart how you want to play:
 
 
-# | Choose your gamestyle
+nr | Choose your gamestyle
 --- | ---
 1.1 | Determine the moment you want to **reveal the identity** of the GCBF: at **Gamestart** or **On-Entry**; when the first player moves a ship into the #001 hex. On-Entry is recommended, but I would still like to add this as a variation to the rules, because I know that some people will never want to even play-test this expansion because of all the surprises and trouble that it will throw upon them......
 1.2 | Determine how to treat new spawned or moved **BF-ships**: as a ordinary **GCDS** or as another **GCBF**, this way they could go viral! So when the rules talk about BF-ship, it's either a GCDS or a GCBF, depending on which variantion you decided to play.
@@ -59,7 +59,7 @@ Make closed piles of the GCDS's, GCBF's and On Defeat tokens and put them aside 
 
 Entering the #001 Hex (or any hex with a GCBF), flip the GCBF token to it's GCBF-type side if it is not already on that side and see what it does:
 
-# | type | token | explanation
+nr | type | token | explanation
 --- | --- | --- | ---
 3.1 | The Hive | ![](img/GCBF-01-TheHive.png) | On all six hexes around the current hex a new BF-ship spawns. The initial GCBF is replaced with a GCDS.
 3.2 | The Attack | ![](img/GCBF-02-TheAttack.png) | Instead of the attacker moving into the hex another BF-ship enters the hex the attacker came from. The initial GCBF is replaced with a BF-ship.
@@ -82,7 +82,7 @@ At the end of the combat round, whenever a tile is cleared of all GCDS's on it t
 
 **Note:** This happens after the combat round, so whatever the outcome, you have a full round to counter these attacks, when they happen in round 9, nothing happens.
 
-# | type | token | explanation
+nr | type | token | explanation
 --- | --- | --- | ---
 4.1 | The Sneak | ![](img/GCBF-Defeat-01-TheSneak.png) | a GCDS in the attacker's home hex, no matter who owns it! Hahaha! When there were more players involved in the attack, all attackers homeworlds get an **ancient cruiser**.
 4.2 | The Return | ![](img/GCBF-Defeat-02-TheReturn.png) | a new GCDS spawns in same hex, pin rules do apply, populating the planets is not allowed!
@@ -105,7 +105,7 @@ The following rules apply (loosly based on _alliances_ from RotA):
 
 **This section is highly WIP!**
 
-# | Co-op rules
+nr | Co-op rules
 --- | ---
 6.1 | Players that are members of the **treaty** can fight the Fleet together, just like the _alliances_ from RotA.
 6.2 |  **Only on hexes with a BF-ship** the presence of ships from two or more players that are part of the **treaty** is not seen as an act of war. _**Example:** Player A and B are both in the treaty and are both in hex #001 attacking the GCBF. But also somewhere else on the board they both have presence in the same hex. The battle in the #001 hex is done co-op, but they first have to fight each other in the other hex._
@@ -123,7 +123,7 @@ The following rules apply (loosly based on _alliances_ from RotA):
 
 In order to have more than the 'basic' three GCDS's chips, I created a bunch of extra GCDS's and also remade the official GCDS's in the same design, mainly to have all 5 of them and being able to stack them and do random draws. And there are some fan made GCDS's
 
-# | origin | token | ini | msl | can | cmp | shl | hls | xtr 
+nr | origin | token | ini | msl | can | cmp | shl | hls | xtr 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 001 | Base | ![](img/GCDS-001.png) ||| 4x1 | +1 || 7 |
 002 | RotA | ![](img/GCDS-002.png) | 4 |4x1 | 1x4 | +2 || 3 |
