@@ -24,9 +24,7 @@ Licence
 
 The image I used is copyright of Brad Wright, my attempts to contact him to ask permission to use the image have been unanswered, so I am looking for another image that does capture the atmosphere I am looking for. As soon as I found one I will replace this...
 
-The rules and tokens belonging to this expansion are provided under the following license:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work, which includes everything in this repository, is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 GCDS vs GCBF vs BF-ship
 -----------------------
