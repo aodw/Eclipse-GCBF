@@ -157,7 +157,7 @@ I also saw a couple of Growing GCDS variants on the BGG-forum, which might be in
 
 The last idea I want to mention here is a scripted BF-ship. Which has its own board where blueprint, tech, position etc is managed... A combination of the growing GCDS and stuff.....
 
-Licence
+License
 -------
 
 The image I used is copyright of Brad Wright, my attempts to contact him to ask permission to use the image have been unanswered, so I am looking for another image that does capture the atmosphere I am looking for. As soon as I found one I will replace this...
