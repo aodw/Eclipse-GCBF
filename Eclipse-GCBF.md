@@ -1,5 +1,9 @@
-Eclipse expansion: Variant GCDS
-===============================
+Galactic Center Battle Fleet
+============================
+
+_The Galactic Council was not amused with the rumors about GCDS's in parallel galaxies being destroyed with much ease all over the place. They decided that mere defending the Galactic Center was no longer sufficient. They choose to BATTLE!_
+
+![](img/GCBF-Cover.png)
 
 Background
 ----------
@@ -8,21 +12,21 @@ Ever since my first game of **Eclipse** I have never been really impressed by th
 
 I wanted to create some **force** that is not only defending the GC, but is impressive enough to have people think over their silly plans to walk into that #001 Hex, with the possibility to screw themselves, or even their fellow players. Look at this expansion more as a _mission_. This force could become that massive that it changes the game, you are no longer competing with your opponents, you are playing **against that force**; it could become that powerful that the only way to take care of it is by **co-op**.
 
-Hence the term:
-
-Galactic Center Battle Fleet
-============================
-
-_The Galactic Council was not amused with the rumors about GCDS's in parallel galaxies being destroyed with much ease all over the place. They decided that mere defending the Galactic Center was no longer sufficient. They choose to BATTLE!_
-
-![](img/GCBF-Cover.png)
-
 Work in progress / Disclaimer
 -----------------------------
 
 1. This is a work-in-progress. I just started writing and let things evolve from there. I am open to suggestions for changes and add-ons to this text.
 2. I am not a native english speaker, coming up with rules that are only interpretable in one way is hard. Putting them down in a language that is not your own is even harder...
 3. While describing my idea I choose to use the chronological order, which might use terms that are explained later in the document. This makes it a bit unclear reading the document for the first time, but will help you much better when playing the game.
+
+Licence
+-------
+
+The image I used is copyright of Brad Wright, my attempts to contact him to ask permission to use the image have been unanswered, so I am looking for another image that does capture the atmosphere I am looking for. As soon as I found one I will replace this...
+
+The rules and tokens belonging to this expansion are provided under the following license:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 GCDS vs GCBF vs BF-ship
 -----------------------
