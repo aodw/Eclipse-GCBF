@@ -19,13 +19,6 @@ Work in progress / Disclaimer
 2. I am not a native english speaker, coming up with rules that are only interpretable in one way is hard. Putting them down in a language that is not your own is even harder...
 3. While describing my idea I choose to use the chronological order, which might use terms that are explained later in the document. This makes it a bit unclear reading the document for the first time, but will help you much better when playing the game.
 
-Licence
--------
-
-The image I used is copyright of Brad Wright, my attempts to contact him to ask permission to use the image have been unanswered, so I am looking for another image that does capture the atmosphere I am looking for. As soon as I found one I will replace this...
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work, which includes everything in this repository, is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
 GCDS vs GCBF vs BF-ship
 -----------------------
 
@@ -163,3 +156,11 @@ I also saw a couple of Growing GCDS variants on the BGG-forum, which might be in
 - [Toxic_Rat's Growing GDCS](https://boardgamegeek.com/thread/856074/variant-gcds)
 
 The last idea I want to mention here is a scripted BF-ship. Which has its own board where blueprint, tech, position etc is managed... A combination of the growing GCDS and stuff.....
+
+Licence
+-------
+
+The image I used is copyright of Brad Wright, my attempts to contact him to ask permission to use the image have been unanswered, so I am looking for another image that does capture the atmosphere I am looking for. As soon as I found one I will replace this...
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work, which includes everything in this repository, is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
