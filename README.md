@@ -18,6 +18,7 @@ Work in progress / Disclaimer
 1. This is a work-in-progress. I just started writing and let things evolve from there. I am open to suggestions for changes and add-ons to this text.
 2. I am not a native english speaker, coming up with rules that are only interpretable in one way is hard. Putting them down in a language that is not your own is even harder...
 3. While describing my idea I choose to use the chronological order, which might use terms that are explained later in the document. This makes it a bit unclear reading the document for the first time, but will help you much better when playing the game.
+4. I numbered the rules to have a easy reference to use while discussing them.
 
 GCDS vs GCBF vs BF-ship
 -----------------------
